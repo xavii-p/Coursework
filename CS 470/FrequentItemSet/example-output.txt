@@ -1,0 +1,10 @@
+abc (2518)
+def (2316)
+def abc (2315)
+bcd (764)
+abc bcd (764)
+efg (739)
+abc efg (738)
+efg def (696)
+abc efg def (595)
+
